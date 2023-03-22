@@ -1,4 +1,4 @@
-# Kotobade Asobou 言葉で遊ぼう
+# VCE Kotobade Asobou VCE 言葉で遊ぼう
 
 This is the VCE Japanese version of the word guessing game we all know and love. This game was forked from [this] (https://github.com/taximanli/kotobade-asobou) and I've changed just the word list to use VCE words instead. 
 
