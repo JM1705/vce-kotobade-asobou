@@ -1,13 +1,13 @@
 # Kotobade Asobou 言葉で遊ぼう
 
-This is the Japanese version of the word guessing game we all know and love. This game was forked from this [open source version](https://github.com/cwackerfuss/react-wordle) and has undergone massive redevelopment with extra game mode and new elements added to accommodate the unique features of the Japanese language.
+This is the VCE Japanese version of the word guessing game we all know and love. This game was forked from [this] (https://github.com/taximanli/kotobade-asobou) and I've changed just the word list to use VCE words instead. 
 
-If you enjoy the game and would like to support my work, please consider [Buying Me a Coffee](https://ko-fi.com/taximanli)  ♥️
+If you enjoy the game and would like to support the original dev's work, please consider [Buying them a Coffee](https://ko-fi.com/taximanli)  ♥️
 
-これは、有名で人気な単語パズルゲームの 日本語版 です。このゲームは、この [オープンソース版](https://github.com/cwackerfuss/react-wordle) からフォークして大規模なソフトウェア再開発を経ています。また、日本語の特徴に合わせて、新しいモードと要素が追加されています。
+これは、有名で人気な単語パズルゲームの VCE単語を使った日本語版 です。私のバージョンは、[ここ](https://github.com/taximanli/kotobade-asobou) からフォークして単語リストを変えただけです
 
-このゲームを楽しんで、私のソフトウェア開発をサポートしたい場合は、
-よろしければ ♥️ [私にコーヒーを一杯おごる](https://ko-fi.com/taximanli) こともできます。
+このゲームを楽しんで、元の開発者のソフトウェア開発をサポートしたい場合は、
+よろしければ ♥️ [その方にコーヒーを一杯おごる](https://ko-fi.com/taximanli) こともできます。
 
 ## How to play
 
@@ -25,6 +25,5 @@ A new word will be available each day!
 
 ### 単語リストについて
 
-単語リストは、名詞、代名詞、形容詞、副詞及び動詞が含まれています。外来語も含まれています。活用語は、基本的に終止形です。
-
+単語リストは、[VCE単語](https://vcaa.vic.edu.au/Documents/vce/japanese2nd/japanesevocab.pdf) から4文字の単語を選んだものです。
 単語は日替わりです！
